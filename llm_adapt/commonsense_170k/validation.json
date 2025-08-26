@@ -1,0 +1,722 @@
+[
+    {
+        "instruction": "Please answer the following question with true or false, question: is there gonna be a 5th jurassic park?\n\nAnswer format: true/false",
+        "input": "",
+        "output": "the correct answer is true",
+        "answer": "true"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Austin cleared their throat after Casey asked them a question. What will Austin want to do next?\n\nAnswer1: reply to Casey Answer2: stay quiet Answer3: clear their throat again\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Rachel liked to eat ice cream all day but Jennifer preferred to eat fish from the grill.  _ is healthy.\n\nOption1: Rachel Option2: Jennifer Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Jan gave me a hard time for almost nothing yesterday. Why did Jan do this?\n\nAnswer1: ignore that issue Answer2: neglect that issue Answer3: show off\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Bailey had a great job and was thrilled when she got a raise. What will Bailey want to do next?\n\nAnswer1: quit her job next Answer2: work hard Answer3: celebrate next\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: The robber tried to hide the money in the envelope but the _ was too small.\n\nOption1: envelope Option2: money Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: After accidentally wandering into a strange neighborhood, Alex got lost on the way home. How would Alex feel afterwards?\n\nAnswer1: Nervous Answer2: accomplished Answer3: foolish\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: James could not sleep at night because of the sound of the radio even though he ignored the clock. The _ is loud.\n\nOption1: radio Option2: clock Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Finance and Business: [header] How to donate empty ink and toner cartridges to charity [title] Explore recycle4charity. [step] Recycle4charity is one of the oldest online virtual recycling centers in the united states. At recycle4charity, you are provided with free prepaid ups shipping boxes and labels.\n\nEnding1: You can either buy your empty ink and toner printer cartridges at disposal, or try recycling larger sized bottles from charity shops. Either option will give you some small profit, but be aware that giving small bottles or toner is a few hundred percent less affordable than buying brand new ink. Ending2: You can send empty toner and ink cartridges in for free and the money from your cartridges goes to charity. [substeps] Recycle4charity donates money to charities of their choosing. Ending3: [substeps] You are bound to be visited by the recycling operators within 10 days of bringing your ink and toner kit, plus you can use any tools or trucks your company may have. [title] Consider online recycle4charity listings. Ending4: In exchange for leaving empty ink and toner cartridges at landfills, you will receive a copy of a letter that claims you can donate to charity. [substeps] Many photoshop companies offer discount resold ink liters online.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Casey took their friend to the zoo and they had a really great day. How would Others feel as a result?\n\nAnswer1: happy with her Answer2: really mad Answer3: annoyed at her\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Kendal wanted Jan's answer earlier so that they could start making plans. What will Jan want to do next?\n\nAnswer1: ask her Answer2: get the info Answer3: make plans\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Quinn had to decide which outfit to wear to the wedding. It was a tough decision so he hummed and hawed while trying to decide. How would you describe Quinn?\n\nAnswer1: that Quinn can be indecisive Answer2: entertained by Quinn's behavior Answer3: a careful planner\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Remy is not confident and needs help making decisions about her job. What will Sasha want to do next?\n\nAnswer1: Ask for a different job assignment Answer2: Ask a coworker for help Answer3: discuss the matter\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: To allow natural defrost on your windshield,\n\nSolution1: park your car with the windshield facing North.\n\nSolution2: park your car with the windshield facing East.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Home,Categories: [header] How to make a paper battleship [title] Choose a type of paper. [step] Every crafts project should begin with thoughtfully choosing the materials you'll be using. What paper you choose to make your boat with will have a major impact on its use and function.\n\nEnding1: Start with materials based on what you want to do when you're developing your boat for the sciences. [substeps] There are several types of paper you can design as you are designing your boat. Ending2: If your island is populated by native commuters and locals, it might be worth its time to visit a reputable media outlet to get your project together on a scale. If your island is smaller than everyone else, consider printing your project out and printing it out between classes. Ending3: [substeps] If you're going to use cardboard, used construction paper, normal newspaper, brown cardstock, and even decorative boxes for the craft classroom, choose suitable materials. If you choose paper, be sure to label different parts to keep from giving yourself away. Ending4: Construction paper is arguably the most common paper for use in this project, as it's colourful and easy to work with. Newspaper is another good choice, as it is commonplace, folds well, and resists water.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending4",
+        "answer": "ending4"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: Industrial weight scales\n\nSolution1: will measure the quality of wood for a builder.\n\nSolution2: will measure volumes of hot liquid steel for a builder.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: There was more sugar in the cake than in the cookies so the _ turned out to be less sweet.\n\nOption1: cake Option2: cookies Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Finance and Business: [header] How to become a real estate agent in california [title] Get your high school diploma or ged. [step] A high school diploma or its equivalent is required by the california bureau of real estate (calbre) in order to obtain a real estate license in california. In addition, you must be at least 18 years of age.\n\nEnding1: [substeps] As part of your application, you must submit a government-issued identification sticker that proves that you have a high school diploma. This identification sticker is useful if you are already licensed. Ending2: [title] Research colleges and enroll in a real estate program. [step] To become licensed as a real estate agent in california, you must complete 3 college courses for a total of 135 credit hours at a school approved by calbre. Ending3: [substeps] Look over the application form from your high school or by contacting the calbre website. Or call calbre's office at 1-800-235-4233. Ending4: [substeps] Earning a higher degree in real estate is especially important in preparation for this position. A college degree from one of the universities out in california or another will give you the proper skills to meet additional requirements.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Computers and Electronics: [header] How to manage compliance risks associated with social media [title] Understand that unlike traditional media, social media marketing and advertising involves \" two-way \" communication, with the users having control over the material. [title] Evaluate the different social media resources available and what best suits your organization's needs. [step] Common resources that are being used include: twitter, linkedin, myspace, facebook, blog sites (wordpress, blogger, typepad, etc.\n\nEnding1: ) social media and twitter websites, social media, and networks that are designed to communicate marketing strategies. [substeps] Marketing strategies often involve doing one-of-two tasks. Ending2: ), advertising resources, social media profiles and profits. In addition, social media should be flexible with all businesses and at-risk of having maxed their out. Ending3: ) [title] Analyze the way the different social media sites can be used and the pros and cons of each. [step] Important to keep in mind the compliance issues at each step. Ending4: ), and most other social media platform platforms (for example facebook). Communications are passed between users and, sometimes, may be created between personal connections between people.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending3",
+        "answer": "ending3"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: He put the tooth under his pillow and made sure it did not end up under his blanket, as under the _ it would be safe from loss.\n\nOption1: pillow Option2: blanket Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Joseph's plan was a lot better than Donald's because _ put almost zero thought into it.\n\nOption1: Joseph Option2: Donald Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Welding: Man is standing in a dark room weding a metal surface. man\n\nEnding1: is wearing a helmet welding in a suface. Ending2: is holding a gold chain wettin the wooden floor with gold colored fluid. Ending3: is holding a hammer and hammering tiles. Ending4: is standing pite in front of a table and plcheting the block and grinding with picks.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Natalie won the presentation part of the chef contest over Victoria , as _ blandly garnished the plate .\n\nOption1: Natalie Option2: Victoria Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: To hold a marshmallow over a fire for roasting,\n\nSolution1: find a skinny, long and sturdy stick.\n\nSolution2: find a thick, fat piece of log.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution1",
+        "answer": "solution1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: He poured the orange juice from the bottle to the cup for breakfast, so the _ had less in it.\n\nOption1: bottle Option2: cup Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: To create orange paint,\n\nSolution1: mix equal parts red paint and blue paint together.\n\nSolution2: mix equal parts red paint and yellow paint together.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Skylar tilted Kendall's head back and leaned in with the contact lens on her finger. Why did Skylar do this?\n\nAnswer1: did this to torture Kendall Answer2: did this to help Kendall Answer3: move slowly and calmly\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: How to make Pork Chop Stew on your stove at home.\n\nSolution1: Start with placing 1 can vegetable broth in a large sauce pan, add 2  pounds  cubed pork chops, 1 1/2 cup chopped Carrots, 1/2 chopped celery, 1 1/2 cup chopped onions, 2 cups diced potatoes, 1 cup diced peppers, 1/2 cup diced Zucchini squash 1 pound diced tomatoes.  Add 1 tablespoon dried or fresh sage, 1 tablespoon fresh or dried cumin, 1 teaspoon salt, 1 crushed clove garlic, 1 teaspoon pepper, 2 tablespoons corn Starch,  1/2 cup water, simmer on low to medium heat until onions are clear.  Cook covered on low heat for at least 1 hour.  Taste after that time and add Salt and pepper to taste.\n\nSolution2: Start with placing 1 can vegetable broth in a large sauce pan, add 2  pounds  dry fish food, 1 1/2 cup chopped Carrots, 1/2 chopped celery, 1 1/2 cup chopped onions, 2 cups diced potatoes, 1 cup diced peppers, 1/2 cup diced Zucchini squash 1 pound diced tomatoes.  Add 1 tablespoon dried or fresh sage, 1 tablespoon fresh or dried cumin, 1 teaspoon salt, 1 crushed clove garlic, 1 teaspoon pepper, 2 tablespoons corn Starch,  1/2 cup water, simmer on low to medium heat until onions are clear.  Cook covered on low heat for at least 1 hour.  Taste after that time and add Salt and pepper to taste.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution1",
+        "answer": "solution1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Lindsey felt pretty sick and needed to go to the doctor but Mary felt fine. _ called and made an appointment to get their hair done.\n\nOption1: Lindsey Option2: Mary Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Kendall was throwing himself a big birthday party and wanted people to come. How would you describe Kendall?\n\nAnswer1: happy Answer2: needy Answer3: well liked\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: Sneak alcohol bottle into event.\n\nSolution1: Hollow out sandwich bread to hide bottle.\n\nSolution2: Hollow out french bread to hide bottle.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: scissors\n\nSolution1: can pry car door \n\nSolution2: can pry lid \n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Finance and Business: [header] How to void a check [title] Get a pen. [step] Don't use a pencil, since someone could come along and \" unvoid \" your check by erasing your marks. Use black or blue markers.\n\nEnding1: The most important thing is to be sure that it cannot be erased or obscured in any way. [title] Write \" void \" across the payee line. Ending2: [substeps] Pen erasers are much less effective at erasing than pencils due to the extra ink in the pen. Just use a pencil scraper to avoid picking up ink every time you wipe off your stamp. Ending3: [title] Scratch out the blank line in the check. [step] Use caution when rubbing the blank line as the ink can streak. Ending4: Get something that will serve as a watermark, like a marker. A pencil with a dark blue edge will give you a rough approximation of your mark-if the only writing tool you use at home is pencil, try white or other dark colored markers.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please answer the following question with true or false, question: does mark watney die in the martian movie?\n\nAnswer format: true/false",
+        "input": "",
+        "output": "the correct answer is false",
+        "answer": "false"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Elliptical trainer: Woman is in a living room doing exercise in a elliptical machine. when\n\nEnding1: was the last time someone was doing abdominal exercise in a treadmill in a living room. Ending2: she starts to saddle up, she walks in and throws the bar begins to explain the mechanics and position of the machine. Ending3: finish she take off the elliptical and push it very easily. Ending4: she is done talking to the camera she starts walking towards the top.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending3",
+        "answer": "ending3"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Discussing goals was important to Monica but not Megan because _ was very lazy concerning her future.\n\nOption1: Monica Option2: Megan Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: When do I know when the pancake is cooked ?\n\nSolution1: When the pancake is solidified on the surface, cut the pancake in 4 and flip them in the pan, to speed up the process you can flip the pan to let the liquid go under the solid parts of the pancake.\n\nSolution2: When the pancake is solidified on the surface, cut the pancake in 4 and flip them in the pan, to speed up the process you can tip the pan to let the liquid go under the solid parts of the pancake.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Riley looked in Jesse's directions and saw the fear that was in his eyes. What does Riley need to do before this?\n\nAnswer1: walk forward Answer2: sneer at jesse Answer3: have a baseline understanding of Jesse\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: cup\n\nSolution1: can hide plate \n\nSolution2: can hide tape \n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Robin had a lot of evidence to support his case and so he brought the case to trial. Why did Robin do this?\n\nAnswer1: was naive about how to make a case Answer2: had sufficient proof to back his claims Answer3: had no other options left for proof\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Finding information on the internet suited Patricia more than Jessica because _ was older and used the internet less.\n\nOption1: Patricia Option2: Jessica Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Tai chi: We see the instructor of the class. The students sit a the teacher demonstrates. We see people working in pairs indoors on wrist movement. the people\n\nEnding1: try to turn their hands. Ending2: also work side by side and arm to arm. Ending3: stand and the instructor talks to them on the ground. Ending4: are practicing with swords again.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending4",
+        "answer": "ending4"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Laura was very terrible at singing unlike Lindsey because _ always grew up taking lessons.\n\nOption1: Laura Option2: Lindsey Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Christopher asked Kyle to be his girlfriend last week but _ was not eager to give an answer.\n\nOption1: Christopher Option2: Kyle Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Sports and Fitness: [header] How to become a basketball coach [title] Watch a lot of basketball. [step] It seems like a simple objective, but it is by far the most important one-and not just for newcomers to the sport. Seeing how the sport is played-less as a fan, and more with an eye toward offensive and defensive setups-can give you a clearer picture of how a coach impacts the game.\n\nEnding1: [substeps] Compare coach ratings with online news sources before sitting down for a watch. Pay more attention to information like the ratings ratings of trainers. Ending2: Study how offenses and defenses adjust to one another. Make note of when substitutions are made. Ending3: The more involved in the sport, the better it will improve your strategy. [title] Learn enough to use the cheer-pattern. Ending4: It is important to see how the coach follows the rules like a coach will. [title] Don't let yourself get sucked into the mindset that education is off the board; however, i would rather clarify.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Youth: [header] How to protest your school's uniform policy [title] Spike your hair or dye it in a flame way so they know what's about to happen. [step] It really looks rebellious. [title] Why don't you try decorating your locker? [step] It isn't necessarily your uniform, but it shows individuality.\n\nEnding1: Maybe (if your school will allow it) spray paint it or cover it in colorful paper. [title] Goth and emo is always in style. Ending2: [title] At the school event get the suitcases, necklaces and carpicks! [step] Or in order to get to the bus stop, have them organise to be pinned in the back or in the're. If you have girlfriends they make yours a prominent point but basically you make your locker pretty. Ending3: [title] Be friendly and get along with other students. [title] Argue about, if your school lets it, why. Ending4: Try accessorizing in whatever style suits you most, or just keep the stuff that's cool! [title] Occasionally, show the uniform to others so they know you're of high esteem. [title] If they have lots of hints, tell them some secret about the uniform.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: The man wanted to put the clothes in the closets but the _ were too large.\n\nOption1: clothes Option2: closets Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: How do you identify a queen bee by activity level?\n\nSolution1: Once you have smoked the hive and opened it, observe the bees\u2019 activities. The workers and drones will be moving about and working on the hive. The queen\u2019s only duty is to lay eggs. She is fed by the rest of the hive. Therefore, the queen be can be identified by finding the bee that isn\u2019t usually doing much of anything.\n\nSolution2: Once you have smoked the hive and opened it, observe the bees\u2019 activities. The queen will be moving about and working on the hive. The workers' and drones' only duty is to lay eggs. They are fed by the rest of the hive. Therefore, the queen be can be identified by finding the bee that is usually doing a lot.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution1",
+        "answer": "solution1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Bailey treated their parents well and she got rewarded with the toy she wanted. Why did Bailey do this?\n\nAnswer1: treat their parents well also Answer2: get the toy she wanted Answer3: fight with her parents\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: How to you weight down a crust so it doesn't puff up while cooking?\n\nSolution1: Weight down the uncooked pastry with baked beans.\n\nSolution2: Weigh down the uncooked pastry with uncooked beans.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: In whitetail deer, females seldom grow antlers. Which best explains why male whitetail deer grow antlers but females seldom grow antlers?\n\nAnswer1: Female deer have no need for antlers. Answer2: Male deer are older than female deer. Answer3: Antler growth is controlled by genes. Answer4: Antler growth depends on behavior.\n\nAnswer format: answer1/answer2/answer3/answer4",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: The change in fur color of the Arctic hare from brown in the summer to white in the winter is an example of\n\nAnswer1: mimicry. Answer2: heredity. Answer3: diversity. Answer4: camouflage.\n\nAnswer format: answer1/answer2/answer3/answer4",
+        "input": "",
+        "output": "the correct answer is answer4",
+        "answer": "answer4"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Jeffrey was angry with Nick because _ lent him a school book that he destroyed.\n\nOption1: Jeffrey Option2: Nick Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Camel ride: A little girl is guided as she mounts a camel at a station. a man\n\nEnding1: is then let loose as two more camel follow after his being released. Ending2: stops and money roll, then a young kid starts petting a camel as he talks. Ending3: opens a suitcase, removes the contents, and then places the camel into a large ring alongside others, one by one. Ending4: helps her as he leads the camel around.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending4",
+        "answer": "ending4"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: When opening up about their crushes, Kenneth sighed at Jeffrey because _ forgot who their crush was.\n\nOption1: Kenneth Option2: Jeffrey Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Sasha was very committed to succeeding developed Austin's attitude. What will happen to Austin?\n\nAnswer1: become a better person Answer2: be sad Answer3: be rewarded\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Keeping track of his budget in a notebook became sporadic so he switched to a phone app since the _ was inconsistent.\n\nOption1: notebook Option2: phone Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Robin was always fascinated with ballet and decided that they wanted to be a ballerina. What would Robin do to achieve this?\n\nAnswer1: join a ballet class Answer2: quit a ballet class Answer3: a passionate person who loves the ballet\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Blowing leaves: A person is using a leaf blower to blow leaves down a street. They keep blowing the leaves out of a gutter. the leaves\n\nEnding1: come out slow at first, but they pick up speed along the way. Ending2: are blowing onto the lawn. Ending3: blow down a street while they continue to sweep. Ending4: hit the sidewalk and flatten out as they blow.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Health: [header] How to treat vaginal prolapse [title] Change your activities to prevent stress to the vaginal walls. [step] If you have only mild vaginal prolapse, your doctor will likely recommend modifying your activities to avoid heavy lifting and/or straining. This will reduce the stress on your pelvic floor muscles, and may help to improve (or at least to prevent worsening of) your vaginal prolapse.\n\nEnding1: [substeps] Keep in mind that surgery is not necessary with vaginal prolapse. You can leave the prolapse untreated without any negative impact on your health. Ending2: [substeps] This can be as simple as, \" weight lifting \" or \" driving a tractor. \" [title] Clean your vagina regularly to prevent vaginal contamination. Ending3: [substeps] Power lifts are suggested as they produce more fluid and restore motility. They help to ease the pressure in your pelvic floor muscles and strengthen the uterus. Ending4: When you exercise, continue to keep your pelvic floor muscles contracted and active. This will help to better balance them out.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Taylor took Addison's life because Addison lied to her about the money. How would Taylor feel afterwards?\n\nAnswer1: like a good person Answer2: very vindicated Answer3: her about the money\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: I had to replace my washer instead of my dryer because the _ was newer.\n\nOption1: dryer Option2: washer Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: My foot itch so bad but it wasn't as bad as the burn, because the _ was fairly mild.\n\nOption1: itch Option2: burn Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Home and Garden: [header] How to plant napier grass [title] Cut a mature stem of napier grass. [step] If napier grass does not grow wild in your area, you may be able to buy some from a plant nursery or catalogue. Cut the stem around 15-20 cm (6-8 inches) above the soil.\n\nEnding1: [substeps] These steps are only if you're going to plant napier grass organically. Napier grass needs a cool climate in order to thrive. Ending2: Look for stems that have at least three nodes, which are small bumps that will eventually grow into new leaves. [title] Cut the stem into sections with three nodes each. Ending3: This will help prevent root rot as you plant. [substeps] If the shoots on a young tree are not growth-bearing, you may simply cut it off with a pair of scissors. Ending4: [substeps] Often, you can obtain napier grass online or from a garden center, though note that a garden center cannot order the grass from you. [title] Cut the stem of the grass to the size indicated on the package.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Brian needed to apply lotion more frequently than Adam due to _ 's naturally dry skin.\n\nOption1: Brian Option2: Adam Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Waterskiing: First the man sets his timer that's attached to his chest and he sits down and puts his leg onto the ski. next he\n\nEnding1: puts another leg on the ski and does push-ups to add leverage. Ending2: stands up while holding onto something and he starts water skiing as he gets pulled by the boat. Ending3: holds up a tool that uses to unroll the ski on its own and clips off the ski. Ending4: takes his ski off and he's taking it off and explaining the process to how you top it.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: The material for the coat was much lower quality than for the hat, so the _ was more expensive.\n\nOption1: hat Option2: coat Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: The toddler was hurling his peas at the couches, as the _ made a very convenient target.\n\nOption1: peas Option2: couches Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Jane could not see the top of the shelf even after standing on the couch. The _ is very tall.\n\nOption1: shelf Option2: couch Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Jan, the boss, wanted to celebrate getting a new client, so Jan took their co-workers out to a fancy restaurant for lunch. How would the co-workers feel as a result?\n\nAnswer1: pleased by Jan's generosity Answer2: digusted by the fancy restaurant Answer3: angry at Jan's penny pinching\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Trimming branches or hedges: A bench is shown in a backyard in front of bushes. A man is using a ladder to trim the hedges. he\n\nEnding1: continues trimming the bushes in the yard. Ending2: puttapes and adds sweet head fruit to the top of the hedge. Ending3: strikes a match and begins trimming them. Ending4: moves the bench, and walks around with the ladder, continuing to trim hedges.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending4",
+        "answer": "ending4"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Long jump: A group of athletes are on a track outside. a man\n\nEnding1: is run through with a pole. Ending2: walks down the path, then runs. Ending3: in shorts does a shot put. Ending4: , wearing an air force uniform, does a long jump with a javelin in one hand.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please answer the following question with true or false, question: did the japanese bomb australia during world war ii?\n\nAnswer format: true/false",
+        "input": "",
+        "output": "the correct answer is true",
+        "answer": "true"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Making a sandwich: He puts chicken on top of the tomato. He puts one piece of bread on top of the other. he\n\nEnding1: opens a bag and adds the chicken. Ending2: puts mayonnaise on top of the top piece of bread. Ending3: adds pasta in between the two pieces of bread. Ending4: puts the pasta down onto the sandwich, then starts to eat the pasta.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Addison went to the store and got some items for her Thanksgiving dinner. How would you describe Addison?\n\nAnswer1: very angry Answer2: satisfied about the dinner plan Answer3: on top of things\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Quinn told Tracy intended reactions about Tracy\u00b4s new boyfriend. How would Quinn feel afterwards?\n\nAnswer1: in love Answer2: embarrassed Answer3: Angry\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Casey decided to go to his brother's graduation this weekend. Why did Casey do this?\n\nAnswer1: get his diploma Answer2: be a good brother Answer3: dress nice\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Tanya was able to paint a pretty picture but Natalie was not. _ didn't have her work displayed in an art gallery.\n\nOption1: Tanya Option2: Natalie Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Austin lied to Tracy. Tracy hurt Austin much worse by beating them up. How would you describe Tracy?\n\nAnswer1: aggressive Answer2: like she got payback Answer3: a person who enjoys lying\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Aubrey bought some shoes at the store for her friend Alex that he loved. What will happen to Alex?\n\nAnswer1: get a book Answer2: go to a new country Answer3: get shoes\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: Ride a bicycle.\n\nSolution1: Hold the bicycle upright between your legs with one foot on a pedal. Gently push off the ground with your other foot and place it on the other pedal, then apply pressure to the pedals with the feet to continue forward motion.\n\nSolution2: Hold the bicycle upright between your legs with both feet on a pedals. Gently push off the ground with your other foot and place it on the other pedal, then apply pressure to the pedals with the feet to continue forwards motion.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution1",
+        "answer": "solution1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Croquet: The boy takes the mallet and hammers small goal posts into the grass. The boy then snaps his fingers and a his twin appears. the two\n\nEnding1: match and move around of the field. Ending2: double sided game begins and the two then make a split screen logo with their name as the male's final score. Ending3: continue to hammer the targets, and one of the other boys kneels by to defend the targets. Ending4: then begin to play cricket.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending4",
+        "answer": "ending4"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Because Cynthia was more flexible then Carrie, _ decided to take up yoga to improve in that manner.\n\nOption1: Cynthia Option2: Carrie Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Mary found the taste of squirrel pleasant while Natalie found it awful. _ had the Brunswick game stew for lunch.\n\nOption1: Mary Option2: Natalie Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Sydney worked well to get noticed in business and ended up getting a promotion from their boss. What will happen to Sydney?\n\nAnswer1: thankful to her boss Answer2: move up in life Answer3: get more famous\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Health: [header] How to get unstuck [title] Change your commute. [step] Spend a week commuting via bike, bus or walking. Shaking up how you start your day can change your outlook for the entire day.\n\nEnding1: [title] Do some reading on the company dime. [step] Ask your boss for subscriptions to trade magazines or new books that could improve and inspire your work. Ending2: If someone else is getting on and you're getting off at the same time, you can have a day to get at your own pace. Just make sure you start things cleaner so that people don't get behind you. Ending3: If you look like you need to do this regularly, you're bound to get off in a bad mood. Change your commute to avoid suffering from worry or be frustrated with yourself. Ending4: Take the stairs instead of the elevator or subway instead. You'll get your wheels moving at first, but that will be a natural part of the experience.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Relationships: [header] How to get someone to like you [title] Practice good personal hygiene. [step] Before you meet with the person, take care of basic grooming: shower, comb your hair, brush/floss your teeth, apply deodorant, and put on fresh clothing. You might also chew mint gum and lightly spritz on perfume or cologne.\n\nEnding1: [substeps] When you look and smell your best, you feel great. As a result, you come off as more confident and likeable to others. Ending2: If the person is interested in you, then he or she might mention liking you. Show him or her that you smell great. Ending3: Additionally, wash your hands before you touch the person. If you kiss or touch them, tell the person that you need to use some kind of body wash, have them pick one from your closet, and don't touch them again. Ending4: Mirror all your facial features before you decide on the outfit. [substeps] If you don't have a mirror, stick to something similar.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Austin begged and begged for a new puppy from their parents. How would Others feel as a result?\n\nAnswer1: annoyed Answer2: a nice kid Answer3: relaxed\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please answer the following question with true or false, question: was tom from tom and jerry called jasper?\n\nAnswer format: true/false",
+        "input": "",
+        "output": "the correct answer is true",
+        "answer": "true"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Home and Garden: [header] How to use a kreg jig [title] Measure the wood you're using. [step] Before you begin drilling, it's important to measure the width of the boards you'll be working with. The thickness is what you're looking to gauge here.\n\nEnding1: [title] Cut the boards using a miter saw. [step] Before you start drilling, you'll need to saw across the board in a horizontal fashion to mark its thickness. Ending2: Diameter of wood is more important than the depth of your board, so check online for a guide. [substeps] In terms of depth measurements, average lumber typically weighs around 57 percent. Ending3: Knowing the exact thickness of the board will enable you to drill the pocket holes at just the right angle. [substeps] Always measure your wood, regardless of the specifications given on the label. Ending4: For example, if you're cutting boards for the top deck, then you'll need two boards measuring three feet wide and four feet tall (one vertically and one horizontally). A kreg jig is 1.1 foot (30.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending3",
+        "answer": "ending3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Despite having a restraining order against them, Jordan came near Quinn. What will happen to Quinn?\n\nAnswer1: be filled with bread Answer2: gasp in fear and surprise Answer3: get arrested\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer2",
+        "answer": "answer2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Quinn felt very lonely and decided to call their best friend. What will Others want to do next?\n\nAnswer1: find out what they did Answer2: talk to Carson Answer3: pick up the phone\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: how do you use a vape?\n\nSolution1: press the side button and inhale. exhale after a few seconds.\n\nSolution2: suck on the vape opening like a straw, exhale after a few seconds.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution1",
+        "answer": "solution1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Computers and Electronics: [header] How to buy a video card for your pc [title] Decide on what you want out of a new video card. [step] Multiple monitor displays and fhd or htpc video do not require a high amount of power. For 4 k displays you may need a newer card that supports hdmi 2.0.\n\nEnding1: High-end games, demanding emulators, high resolution video and virtual reality may require extra power for optimal performance. You will need to determine how powerful you want your video card's components to be. Ending2: [title] Gather all the bills or performance issues you will need at minimum, the dates, and the amount of available space for installation. [step] Be aware that if you plan to upgrade or rent a computer, do so before you begin. Ending3: But for 5 k displays you may need a newer card that supports full hdmi 2.0. For 7 k displays you may need a more expensive card if this exceeds a few thousand dollars. Ending4: In 8 k displays, a lot of the difference lies in the resolution and graphics, but in reality, they are incremental. Only about 20 gb are required for laptops.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending1",
+        "answer": "ending1"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Food and Entertaining: [header] How to stay sober on new year's eve [title] Choose to stay in. [step] If you'd much rather avoid drunken conversations and being the one to usher stumbling friends to safety, you could opt to spend the evening at home. However, being at home doesn't mean you can't participate in the excitement.\n\nEnding1: Staying home will allow you to have a night of sobriety and be safe. [title] Keep track of how often you're drinking. Ending2: During this time, you might find yourself feeling drowsy from all that partying and/or reckless behavior. Rather than feel bad about drinking too much on new year's eve, remind yourself of what you love about your new year's eve. Ending3: There are tons of ways to plan a fun night with a group of friends who also choose to avoid alcohol. [substeps] Consider organizing a goal-setting or vision board party where you and a group of close pals set your intentions for the following year. Ending4: Attending a party is a typically contentious circumstance with many partygoers. Tired and thirsty drinkers cannot be sober on new year's eve.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending3",
+        "answer": "ending3"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Kayla looked so much better in spandex than Natalie did because _ was so slender.\n\nOption1: Kayla Option2: Natalie Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Neil unfollowed a teacher on facebook and Brian did not because _ used social media to communicate.\n\nOption1: Neil Option2: Brian Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: rubber band\n\nSolution1: will tightly bind fresh and cold spring water from the source together\n\nSolution2: will tightly bind expensive lead pencils used for architecture drafting together\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution2",
+        "answer": "solution2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Monica loved to eat potato chips but not Cynthia so _ had a very flat belly.\n\nOption1: Monica Option2: Cynthia Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: After an ugly breakup, Riley's ex took her car. Skyler helped out her friend and got Riley's car back. How would you describe Skylar?\n\nAnswer1: like a good friend Answer2: a good friend Answer3: a car thief\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Sarah ripped the carpet and there was hardwood floor underneath, the wood was trendy. The _ was good.\n\nOption1: hardwood Option2: carpet Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please answer the following question with true or false, question: can you play mexican train with regular dominoes?\n\nAnswer format: true/false",
+        "input": "",
+        "output": "the correct answer is true",
+        "answer": "true"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: When Casey moved away from her home town, Cameron asked her write home. How would you describe Cameron?\n\nAnswer1: someone who values friendships Answer2: not interested in keeping contact with friends Answer3: Feels sad\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: I carried the beer from the back of the truck to the countertop until the _ was completely full.\n\nOption1: truck Option2: countertop Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Relationships: [header] How to discourage people from messing with you [title] Travel in groups. [step] If you do not want someone to bother you, try traveling in groups. Someone is unlikely to mess with you if that person sees you're surrounded by friends.\n\nEnding1: You can get away with it this way. [substeps] If you feel you are in danger, you'll have a better chance of avoiding this person. Ending2: [substeps] In general, bigger groups are better. Look for a group of 5 or more people rather than going out in pairs of 2 or 3 only. Ending3: You'll be less likely to bother them if they think you're alone and have no other recourse. [substeps] It's a good idea to plan group trips to various locations. Ending4: If you need to be outside, the next best thing is to spend time with people. [substeps] Pick a group that you feel comfortable being around.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Jason had decaying teeth unlike Donald, and the dentist treating _ suspected it was because he avoided sweets.\n\nOption1: Jason Option2: Donald Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: John was at the pool and poured water into his ear from a bottle until the _ was full.\n\nOption1: bottle Option2: ear Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Natalie has to dust their living room more frequently than Samantha because _ doesn't have any pets.\n\nOption1: Natalie Option2: Samantha Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Drinking beer: They open the fridge and get a beer. They bring it to the man in bed. He sits up and starts drinking the beer. a person\n\nEnding1: comes and shakes the shoulders of the man sleeping in bed. Ending2: come and bring the beer glass and water. Ending3: walks into the room and siders towards the camera. Ending4: picks up a cell phone on a bed.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending4",
+        "answer": "ending4"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Computers and Electronics: [header] How to extend battery life in ios 9 [title] Identify apps that are battery hogs. [step] Open the settings app then locate the battery app, which is just below \" touch id & passcode. \" open the battery app to view detailed information about your battery.\n\nEnding1: [substeps] These apps will list how many battery hogs they accept for daily use. Most include mercury or ionized battery hogs, which may lower the lifespan of battery hogs. Ending2: [title] Connect the apple device to your wi-fi. [step] You should see a button in the lower right-hand corner of the screen that says connect device to your wi-fi. Ending3: [substeps] View the battery usage heading to see a list of the apps you use. A percentage value is listed to the right of each app, denoting the proportion of battery each app used. Ending4: [substeps] You can determine if there is a battery hog app by looking for the name on the lower-left corner. [title] Determine the battery's voltage and battery capacity.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending3",
+        "answer": "ending3"
+    },
+    {
+        "instruction": "Please choose the correct ending to complete the given sentence: Home and Garden: [header] How to use a tile saw [title] Position the tile saw onto a level, sturdy surface. [step] Just as with any power tool, you want the tile saw to be securely positioned and level. A tile saw is best positioned on a heavy, bulky table or directly on the floor.\n\nEnding1: [title] Use the tile saw to cut the tile into an even, vertical shape. [step] Use long, straight strokes across the surface of the tile, using straight, natural strokes. Ending2: Attempting to operate a tile saw on a wobbly table can result in inaccurate cuts and even injury. [title] Fill the tile saw's reservoir with water. Ending3: Your table should be level at all times. [title] Set your tile saw on a flat, stable surface. Ending4: [substeps] Hold the tile saw horizontally with its handle vertical and centered. Place the tile cutter next to the cutting surface.\n\nAnswer format: ending1/ending2/ending3/ending4",
+        "input": "",
+        "output": "the correct answer is ending2",
+        "answer": "ending2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Without a net or a racket we knew it would be impossible to play badminton.  The _ was bent badly.\n\nOption1: net Option2: racket Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: Elena planted a tree and Erin yanked it out of the ground, so _ failed in their attempt to foster life.\n\nOption1: Elena Option2: Erin Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option1",
+        "answer": "option1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Carson had been in the school band for years. Carson played his flute for the school talent show. What will Carson want to do next?\n\nAnswer1: play another song on his flute Answer2: find his friends in the crowd Answer3: leave the auditorium\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct solution to the question: Make a garbage disposal smell good.\n\nSolution1: Grind up some lemon peels in the garbage disposal to add a pleasant smell.\n\nSolution2: Grind up some onion peels in the garbage disposal to add a pleasant smell.\n\nAnswer format: solution1/solution2",
+        "input": "",
+        "output": "the correct answer is solution1",
+        "answer": "solution1"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Remy was a stalker. He followed Tracy home so he could see where she lived. How would Remy feel afterwards?\n\nAnswer1: unsafe with surroundings Answer2: scared to be alone Answer3: like his mission was accomplished\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Weathering can\n\nAnswer1: release a best selling album Answer2: create a black hole in the desert Answer3: turn a sculpture to dust Answer4: create a time traveling vortex\n\nAnswer format: answer1/answer2/answer3/answer4",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Quinn told Tracy what they intended to achieve in the community project that they volunteered. How would Quinn feel afterwards?\n\nAnswer1: scheming Answer2: generous Answer3: excited\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer3",
+        "answer": "answer3"
+    },
+    {
+        "instruction": "Please choose the correct answer to the question: Aubrey lied at work in an attempt to to get Kendall fired to get back at them for not inviting them to the party. What will happen to Aubrey?\n\nAnswer1: most likely be reprimanded by their supervisor Answer2: determine if they want to fire Kendall Answer3: relief that their attempt was unsuccessful after all\n\nAnswer format: answer1/answer2/answer3",
+        "input": "",
+        "output": "the correct answer is answer1",
+        "answer": "answer1"
+    },
+    {
+        "instruction": "Please choose the correct answer to fill in the blank to complete the given sentence: There was a lot more tension in the rope than in the net, because the _ was being pulled tight.\n\nOption1: net Option2: rope Answer format: option1/option2",
+        "input": "",
+        "output": "the correct answer is option2",
+        "answer": "option2"
+    }
+]
